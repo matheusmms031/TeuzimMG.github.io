@@ -93,7 +93,7 @@ nav{
 }
 li:hover{
 	transition: 0.5s;
-	background-color: wheat;
+	background-color: rgb(167, 61, 167);
 }
 a{
 	text-decoration: none;
