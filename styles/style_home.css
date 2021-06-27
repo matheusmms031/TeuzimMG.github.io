@@ -79,9 +79,6 @@ nav{
 
 	width: 600px;
 }
-.inline{
-
-}
 .boxes{
 	display: inline-flex;
 	flex-wrap: wrap;
