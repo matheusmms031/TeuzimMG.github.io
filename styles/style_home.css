@@ -106,7 +106,7 @@ nav{
 }
 li:hover{
 	transition: 0.5s;
-	background-color: rgb(167, 61, 167);
+	background-color: rgba(141, 111, 252, 0.753);
 }
 a{
 	text-decoration: none;
