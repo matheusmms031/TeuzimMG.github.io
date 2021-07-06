@@ -6,6 +6,8 @@ Professora auxiliar: **Izabella Alves**
 1. *Falaremos na frente da turma toda, na apresentação presencial do trabalho;*
 2. Por Slide mas mantendo a coesão entre slides e com textos decorados na mente de cada apresentador;
 3. Slide será feito pelo aluno **Matheus Magalhães**;
+
+## Tópicos do Trabalho
 1. O que é empreendorismo?;
 2. Como que é a vida de um empreendedor;
 3. A importância da técnologia no meio empresarial;
@@ -23,7 +25,10 @@ Professora auxiliar: **Izabella Alves**
 ---
 ## ***Temas importantes***
 Irémos retratar como tema importante para o nosso trabalho os seguintes tópicos e conteúdos para apresentação e coisas complementares:
-* O que é empreendorismo?
-* O uso da tecnologia no meio empreendedor.
-* 
- - [x]
+<div style='color:red'>
+<ul>
+    <li>O que é empreendorismo ?</li>
+    <li>O uso da tecnologia no meio empreendedor.</li>
+    <li>Como empreender</li>
+</ul>
+<sdiv>
