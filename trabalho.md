@@ -25,10 +25,10 @@ Professora auxiliar: **Izabella Alves**
 ---
 ## ***Temas importantes***
 Irémos retratar como tema importante para o nosso trabalho os seguintes tópicos e conteúdos para apresentação e coisas complementares:
-<div style='color:red'>
+- [ ] teste
 <ul>
     <li>O que é empreendorismo ?</li>
     <li>O uso da tecnologia no meio empreendedor.</li>
     <li>Como empreender</li>
+    <li></li>
 </ul>
-</div>
