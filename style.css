@@ -64,3 +64,13 @@ a{
        color: purple;
        text-decoration: none;
 }
+input[type='text']{
+       border-radius: 6px;
+       background-color: blanchedalmond;
+       border: 2.5px solid wheat;
+       transition: 1s;
+
+}
+input[type='text']:hover{
+       border: 2.5px solid black;
+}
