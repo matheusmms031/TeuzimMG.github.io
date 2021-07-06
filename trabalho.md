@@ -7,8 +7,10 @@ Professora auxiliar: **Izabella Alves**
 2. Por Slide mas mantendo a coesão entre slides e com textos decorados na mente de cada apresentador;
 3. Slide será feito pelo aluno **Matheus Magalhães**;
 
-## Tópicos do Trabalho
-1. O que é empreendorismo?;
+## * Tópicos do Trabalho
+1. Empreendorismo?;
+    1. O que é empreendorismo?
+    2. Impôrtancia do ensino do empreendorismo.
 2. Como que é a vida de um empreendedor;
 3. A importância da técnologia no meio empresarial;
 4. Como começar uma empresa?;
@@ -23,12 +25,17 @@ Professora auxiliar: **Izabella Alves**
 * **Artur Diniz Vieira**: Pesquisa sobre impostos sobre cada empresa e a divisão de tipos de empresas.
 * **Maria Clara de Souza Utsch**: Os significados básicos do empreendorismo.
 ---
+<br>
+<br>
+
+# **Trabalho em si**
 ## ***Temas importantes***
 Irémos retratar como tema importante para o nosso trabalho os seguintes tópicos e conteúdos para apresentação e coisas complementares:
-- [ ] teste
-<ul>
-    <li>O que é empreendorismo ?</li>
-    <li>O uso da tecnologia no meio empreendedor.</li>
-    <li>Como empreender</li>
-    <li></li>
-</ul>
+* O que é empreendorismo ?
+* O uso da tecnologia no meio empreendedor.
+* Como empreender
+## **Montagem do trabalho**
+- [ ] Organizando o trabalho para parte escrita.
+- [ ] Montar o trabalho escrito
+- [ ] Organizar o trabalho prático
+- [ ] Montar o trabalho prático
