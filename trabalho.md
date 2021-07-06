@@ -35,7 +35,7 @@ Irémos retratar como tema importante para o nosso trabalho os seguintes tópico
 * O uso da tecnologia no meio empreendedor.
 * Como empreender
 ## **Montagem do trabalho**
-- [ ] Organizando o trabalho para parte escrita.
+- [x] Organizando o trabalho para parte escrita.
 - [ ] Montar o trabalho escrito
 - [ ] Organizar o trabalho prático
 - [ ] Montar o trabalho prático
