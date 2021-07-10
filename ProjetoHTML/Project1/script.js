@@ -1,7 +1,7 @@
 function click(){
        var output = document.getElementById('output')
        var oReq = new XMLHttpRequest()
-       oReq.open("get", `http://viacep.com.br/ws/${cep.value}/json/`, false);
+       oReq.open("get", `https://viacep.com.br/ws/${cep.value}/json/`, false);
        oReq.send();
        console.log(oReq.response)
        response = JSON.parse(oReq.response)
