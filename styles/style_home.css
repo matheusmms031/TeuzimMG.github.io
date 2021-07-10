@@ -108,8 +108,13 @@ nav{
 	justify-content: center;
 }
 li:hover{
+<<<<<<< HEAD
 	transform: scale(1.2);
 	background-color: rgb(167, 61, 167);
+=======
+	transition: 0.5s;
+	background-color: rgba(141, 111, 252, 0.753);
+>>>>>>> main
 }
 a{
 	text-decoration: none;
