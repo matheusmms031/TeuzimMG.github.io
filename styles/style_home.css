@@ -19,12 +19,14 @@ nav li{
 	display: inline-block;
 	border-radius: 5%;
 	background-color: floralwhite;
+	transition: 0.7s;
 	padding: 8px;
 	margin-left: 14px;
 }
 nav ul{
 	margin-right: 70px;
 }
+
 nav{
 	top: 0;
 	position: sticky;
@@ -67,8 +69,9 @@ nav{
 	color:whitesmoke;
 }	
 .box{
+	resize: both;
 	max-height: 500px;
-	overflow: scroll;
+	overflow: auto;
 	height: fit-content;
 	display: inline-block;
 	padding-left: 15px;
@@ -105,7 +108,7 @@ nav{
 	justify-content: center;
 }
 li:hover{
-	transition: 0.5s;
+	transform: scale(1.2);
 	background-color: rgb(167, 61, 167);
 }
 a{

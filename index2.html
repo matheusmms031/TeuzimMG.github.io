@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Document</title>
+       <style>
+              body{
+                     margin: 0px;
+                     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+              }
+              nav li{
+                     color:black;
+                     list-style: none;
+                     font-weight: 900;
+                     display: inline-block;
+                     border-radius: 5%;
+                     background-color: floralwhite;
+                     padding: 8px;
+                     margin-left: 14px;
+              }
+              nav ul{
+                     margin-right: 70px;
+              }
+              nav{
+                     top: 0;
+                     position: sticky;
+                     display: flex;
+                     align-items: center;
+                     background-color: black;
+                     height: 80px;
+                     justify-content: flex-end;
+              }
+              #area{
+                     display: flex;
+                     width: 100%;
+                     justify-content: center;
+                     align-items: center;
+              }
+              #box{ 
+                     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                     font-weight: bolder;
+                     color: cornsilk;
+                     font-size: 20px;
+                     padding: 40px;
+                     background: rgb(0,0,0);
+                     background: linear-gradient(157deg, rgba(0,0,0,1) 0%, rgba(103,10,162,0.9766281512605042) 41%, rgba(83,83,184,1) 68%, rgba(0,212,255,1) 100%);
+              }
+              #box2{
+                     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                     font-weight: bolder;
+                     color: cornsilk;
+                     font-size: 20px;
+                     padding: 40px;
+                     background: black;
+                     opacity: 1;
+              }
+       </style>
+</head>
+<body>
+       <nav>
+              <ul>
+                     <li>Opção 1</li>
+                     <li>Opção 2</li>
+                     <li>Opção 3</li>
+                     <li>Opção 4</li>
+              </ul>
+       </nav>
+       <section id='area'>
+              <div id='box'>
+                     OPA
+              </div>
+              <div id='box2'>
+                     OPA
+              </div>
+       </section>
+       <input type="text" id="fname" name="fname">
+       <input type="button" id="buttonorg" value="Enviar">
+       <script>
+              function entrar(){
+                     box.innerText = 'entrou'
+                     box2.style.opacity = 1
+              }
+              function click(){
+                     console.log(`Valor da caixa: ${textinput.value}`)
+              }
+              function saiu(){
+                     box.innerText = 'saiu'
+              }
+              function click1(){
+                     box2.style.opacity = `${box2.style.opacity - 0.1}`
+                     console.log(box2.style.opacity)
+              }
+              var box = window.document.getElementById('box')
+              var box2 = window.document.getElementById('box2')
+              var textinput = window.document.getElementById('fname')
+              var buttonorg = window.document.getElementById('buttonorg')
+              console.log(box2.style.opacity)
+              buttonorg.addEventListener('click', click)
+              box.addEventListener('mouseenter',entrar)
+              box.addEventListener('mouseout',saiu)
+              box2.addEventListener('click',click1)
+       </script>
+       <script>
+              var array = ['opa','opa2']
+              console.log(array[1])
+       </script>
+</body>
+</html>
